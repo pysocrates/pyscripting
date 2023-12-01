@@ -1,2 +1,2 @@
 # pyscripting
-Utility scripts for python, mostly geared at large image library filtering
+Utility scripts written in python, mostly geared at large image library filtering. 
